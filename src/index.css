@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.swiper-thumbs {
+    height: 100%;
+}
+
+ul.home-didciplines-list li a {
+    font-size: 18px;
+}
